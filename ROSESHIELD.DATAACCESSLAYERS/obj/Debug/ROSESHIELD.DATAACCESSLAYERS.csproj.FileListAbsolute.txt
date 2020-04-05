@@ -1,0 +1,16 @@
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\bin\Debug\ROSESHIELD.DATAACCESSLAYERS.dll.config
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\bin\Debug\ROSESHIELD.DATAACCESSLAYERS.dll
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\bin\Debug\ROSESHIELD.DATAACCESSLAYERS.pdb
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\bin\Debug\EntityFramework.dll
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\bin\Debug\log4net.dll
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\bin\Debug\Migrations.dll
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\bin\Debug\ROSESHIELD.DOMAIN.dll
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\bin\Debug\ROSESHIELD.DOMAIN.pdb
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\bin\Debug\EntityFramework.xml
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\bin\Debug\log4net.xml
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\obj\Debug\ROSESHIELD.DATAACCESSLAYERS.csprojAssemblyReference.cache
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\obj\Debug\ROSESHIELD.DATAACCESSLAYERS.csproj.CopyComplete
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\obj\Debug\ROSESHIELD.DATAACCESSLAYERS.dll
+C:\Users\paulo\source\repos\ROSESHIELD.DATAACCESSLAYERS\obj\Debug\ROSESHIELD.DATAACCESSLAYERS.pdb
